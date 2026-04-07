@@ -126,4 +126,4 @@ Configure FTP destinations in Settings → FTP Settings. Use the Upload dropdown
 
 ---
 
-*Pannex is a [Pale Desklight](https://github.com/dposto) project by David Posto.*
+*Pannex is a [sudo sketchy](https://github.com/dposto) project by David Posto.*
