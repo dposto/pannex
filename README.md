@@ -4,7 +4,7 @@
 
 A simple but powerful screenshot annotation tool for technical writers. Crop, annotate, redact, and publish — without the overhead of a full image editor.
 
-A [Pale Desklight](https://github.com/dposto) project by David Posto.
+A [sudo sketchy](https://github.com/dposto) project by David Posto.
 
 ---
 
