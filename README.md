@@ -2,7 +2,7 @@
 
 *Permissive Annotation Extension*
 
-A simple but powerful screenshot annotation tool for technical writers. Crop, annotate, redact, and publish — without the overhead of a full image editor.
+A screenshot annotation tool geared towards technical writers. Crop, annotate, redact, and publish — without the overhead of a full image editor.
 
 A [sudo sketchy](https://github.com/dposto) project by David Posto.
 
