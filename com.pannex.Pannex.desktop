@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Pannex
+GenericName=Image Annotation Tool
+Comment=Screenshot annotation tool for technical writers
+Exec=pannex %f
+Icon=com.pannex.Pannex
+Terminal=false
+Categories=Graphics;2DGraphics;RasterGraphics;
+Keywords=screenshot;annotation;image;editor;documentation;
+MimeType=image/png;image/jpeg;image/gif;image/bmp;image/webp;image/tiff;image/svg+xml;
+StartupNotify=true
+StartupWMClass=pannex
